@@ -1,0 +1,10 @@
+mytest~~
+my change~~
+my change1~~~
+
+I check out the file to test!
+vi edit~
+test?
+
+commit changes.
+no change?
