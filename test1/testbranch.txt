@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master testbranch.
+=======
+testbranch.
+file testchange1.
+>>>>>>> testing
