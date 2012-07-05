@@ -1,4 +1,0 @@
-test1
-test diff.
-
-test2 diff.
