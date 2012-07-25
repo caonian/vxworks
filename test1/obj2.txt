@@ -1,3 +1,5 @@
 build 1.changed.
 
 test diff.
+
+check test!
